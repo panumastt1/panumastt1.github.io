@@ -1,6 +1,7 @@
 # Consistency
 
-- vitalflux : High quality data also requires the data to be consistent across different systems. Data inconsistency occurs when different values of the same data exist in different systems, which can result in incomplete or inaccurate information being presented. This kind of error can lead to significant losses for businesses as well as frustration among customers.
+- vitalflux :
+High quality data also requires the data to be consistent across different systems. Data inconsistency occurs when different values of the same data exist in different systems, which can result in incomplete or inaccurate information being presented. This kind of error can lead to significant losses for businesses as well as frustration among customers.
 
 Inconsistent data can be caused by numerous factors such as manual errors, mistakes in databases or application code, incorrect handling on inputting or updating data, illogical coding rules or validation criteria on inputs etc. To prevent these types of errors from occurring, you should implement strict checks before any new data is entered into their systems and regularly audit existing records for accuracy.
 

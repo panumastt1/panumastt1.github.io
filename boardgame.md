@@ -3,79 +3,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>🛡️ Cyber Security Board Game: การผจญภัยแห่งความปลอดภัยไซเบอร์ 🌐</title>
-    <style>
-        body {
-            font-family: 'Press Start 2P', cursive;
-            line-height: 1.6;
-            margin: 0;
-            padding: 0;
-            background-color: #ffffff;
-            color: #333333;
-        }
-
-        .content-container {
-            width: 90%;
-            max-width: 1200px;
-            margin: 0 auto;
-            padding: 20px;
-            background: #f9f9f9;
-            border-radius: 15px;
-            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
-        }
-
-        h1, h2, h3, h4 {
-            font-family: 'Orbitron', sans-serif;
-            text-align: center;
-            color: #007bff;
-            text-transform: uppercase;
-            letter-spacing: 2px;
-        }
-
-        h1 {
-            font-size: 2.5em;
-            margin-top: 20px;
-        }
-
-        p, ul {
-            font-size: 1em;
-            max-width: 900px;
-            margin: 20px auto;
-            text-align: justify;
-            line-height: 1.8;
-            color: #555555;
-        }
-
-        img {
-            width: 100%;
-            height: auto;
-            border-radius: 15px;
-            border: 3px solid #007bff;
-            transition: transform 0.3s ease;
-        }
-
-        img:hover {
-            transform: scale(1.02) rotate(1deg);
-        }
-
-        .section {
-            margin-bottom: 40px;
-        }
-
-        blockquote {
-            font-style: italic;
-            text-align: center;
-            color: #555;
-            border-left: 5px solid #007bff;
-            padding-left: 20px;
-            margin: 20px auto;
-            max-width: 900px;
-        }
-    </style>
 </head>
 <body>
-    <div class="content-container">
+    <div>
         <h1>🛡️ Cyber Security Board Game: การผจญภัยแห่งความปลอดภัยไซเบอร์ 🌐</h1>
-        <div class="section">
+        <div>
             <img src="profile/boardgame-1.jpg" alt="Board Game 1">
             <h2>เกมแห่งการป้องกัน และการเรียนรู้</h2>
             <p>รายละเอียดกิจกรรม:</p>
@@ -85,12 +17,12 @@
                 <li>สถานที่ : อาคาร 24 พาณิชย์ นาวี</li>
             </ul>
         </div>
-        <div class="section">
+        <div>
             <img src="profile/boardgame-2.jpg" alt="Board Game 2">
             <h2>เบื้องหลังกิจกรรม</h2>
             <p>กิจกรรมนี้ไม่ใช่แค่การเล่นเกม แต่เป็นการเดินทางแห่งการเรียนรู้ที่น่าตื่นเต้น! กลุ่ม Habang ซึ่งประกอบด้วยนิสิตสาขา Computer Science ได้ออกแบบประสบการณ์นี้เพื่อถ่ายทอดความรู้เรื่องความปลอดภัยไซเบอร์ให้กับเยาวชน</p>
         </div>
-        <div class="section">
+        <div>
             <img src="profile/boardgame-3.jpg" alt="Board Game 3">
             <h2>🎲 กลไกและวิธีการเล่นบอร์ดเกม</h2>
             <p>1. การเลือกผู้เริ่มเกม 🎳</p>
@@ -100,7 +32,7 @@
             <p>3. เส้นชัยและรางวัล 🏆</p>
             <p>เป้าหมาย: เป็นเซียนไซเบอร์ประจำวัน!</p>
         </div>
-        <div class="section">
+        <div>
             <img src="profile/boardgame-4.jpg" alt="Board Game 4">
             <h2>👥 ทีม Habang</h2>
             <ul>
@@ -111,11 +43,11 @@
                 <li>Addeen Salaehsakul</li>
             </ul>
         </div>
-        <div class="section">
+        <div>
             <img src="profile/boardgame-5.jpg" alt="Board Game 5">
             <blockquote>“เยาวชนต้องรู้เท่าทันโลกดิจิทัล การเรียนรู้ผ่านเกมจะช่วยให้เข้าใจและจดจำได้ง่าย”</blockquote>
         </div>
-        <div class="section">
+        <div>
             <h2>🌈 บทสรุป: ความรู้คือพลัง</h2>
             <p>กิจกรรมนี้มอบมากกว่าความสนุก - มันคือการเตรียมพร้อมสำหรับโลกดิจิทัลที่ซับซ้อน เราเชื่อว่าทุกคนสามารถเป็นผู้พิทักษ์ไซเบอร์ได้!</p>
         </div>

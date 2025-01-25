@@ -10,7 +10,7 @@
             color: #333;
             margin: 0;
             padding: 20px;
-            text-align: center;
+            text-align: left;
         }
         div {
             background: #fff;

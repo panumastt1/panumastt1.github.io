@@ -25,6 +25,7 @@
         }
         h1, h2 {
             color: #e91e63;
+            text-align: left;
         }
         ul {
             list-style-type: none;

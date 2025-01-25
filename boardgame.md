@@ -1,4 +1,5 @@
 🛡️ Cyber Security Board Game: การผจญภัยแห่งความปลอดภัยไซเบอร์ 🌐
+(profile/boardgame-1.png)
 
 👥 ทีม Habang
 Teerakorn Tangwattanakit

@@ -34,7 +34,7 @@
 
 ![Board Game 4](profile/boardgame-4.jpg)  
 
-## 👥 ทีม Habang  
+## 👥 Team Habang  
 - Teerakorn Tangwattanakit  
 - Panumas Chathaisong  
 - Manitchaya Benjajuedsiri  

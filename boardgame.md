@@ -39,7 +39,7 @@
 - Panumas Chathaisong  
 - Manitchaya Benjajuedsiri  
 - Auksara Suwannawayak  
-- Addeen Salaehsakul [Github](https://itzdeenzxx.github.io/boardgame)
+- Addeen Salaehsakul [Github]([https://itzdeenzxx.github.io/boardgame])
 
 ---
 

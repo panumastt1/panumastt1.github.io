@@ -1,4 +1,6 @@
-## Security Requirement: 14.2.2 Dependency
+## Security Requirement
+
+### 14.2.2 Dependency
 
 ### Detail:
 Verify that all unneeded features, documentation, sample applications, and configurations are removed.

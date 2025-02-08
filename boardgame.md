@@ -36,7 +36,7 @@
 
 ## 👥 Team Habang   
 - Panumas Chathaisong
-- Teerakorn Tangwattanakit 
+- Teerakorn Tangwattanakit [Github](https://teerakorn47.github.io/board-games)
 - Manitchaya Benjajuedsiri  [Github](https://manitchaya2004.github.io/boardgame)
 - Auksara Suwannawayak  [Github](https://auksaraaa.github.io/board-games)
 - Addeen Salaehsakul [Github](https://itzdeenzxx.github.io/boardgame)

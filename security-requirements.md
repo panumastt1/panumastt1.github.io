@@ -1,4 +1,4 @@
-## 🔒 Security Requirement 
+## Security Requirement 
 
 ### 14.2.2 Dependency 🛠️
 

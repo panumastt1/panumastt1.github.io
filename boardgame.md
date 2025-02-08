@@ -34,11 +34,11 @@
 
 ![Board Game 4](profile/boardgame-4.jpg)  
 
-## 👥 Team Habang  
-- Teerakorn Tangwattanakit  
-- Panumas Chathaisong  
-- Manitchaya Benjajuedsiri  
-- Auksara Suwannawayak  
+## 👥 Team Habang   
+- Panumas Chathaisong
+- Teerakorn Tangwattanakit 
+- Manitchaya Benjajuedsiri  [Github](https://manitchaya2004.github.io/boardgame)
+- Auksara Suwannawayak  [Github](https://auksaraaa.github.io/board-games)
 - Addeen Salaehsakul [Github](https://itzdeenzxx.github.io/boardgame)
 
 ---
